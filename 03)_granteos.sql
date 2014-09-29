@@ -1,0 +1,1 @@
+grant select, update, insert on DW_CLIENTE_ORIGEN to DW_LOAD;
